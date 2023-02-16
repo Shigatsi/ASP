@@ -1,1 +1,6 @@
-<div class="app">TEST</div>
+<script>
+    import Header from '../Header/Header.svelte'
+</script>
+<div class="app">
+    <Header/>
+</div>
